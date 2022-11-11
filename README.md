@@ -3,3 +3,7 @@ Companies like Amex have millions of customers with multiple credit cards. They 
 
 In this project, we aim to develop a credit card management system which emulates that of companies like Amex, Discover, etc. 
 
+## Contributors:
+- Mehul Jain
+- Satyam Shrivastava
+
