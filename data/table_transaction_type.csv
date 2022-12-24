@@ -1,0 +1,5 @@
+﻿txn_type_id,debit_credit,lcl_intnl
+1,Credit,Local
+2,Debit,Local
+3,Credit,International
+4,Debit,International

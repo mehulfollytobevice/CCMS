@@ -1,0 +1,101 @@
+cust_id,first_name,last_name,email,phone,address,city,state,zip
+1,Denise,Walker,denisewalker296@yahoo.com,655-671-5959,1220 Crow Berry Circle ,Anchorage,AK,99515
+2,James,Howard,jameshoward842@gmail.com,967-708-8493,9 Thomas Street ,Ashland,MA,01721
+3,Danielle,Ford,danielleford100@yahoo.com,101-750-7740,4 Marsh Haven Lane ,Savannah,GA,31411
+4,Jeffrey,Silva,jeffreysilva378@gmail.com,115-327-6303,35 Leominster Road #1,Lunenburg,MA,01462
+5,Jeffrey,Chavez,jeffreychavez582@hotmail.com,262-746-1662,8216 West Citrus Way ,Glendale,AZ,85303
+6,Latoya,Miller,latoyamiller395@hotmail.com,699-682-2196,268 Glengary Garth ,Glen Burnie,MD,21061
+7,Alisha,Spencer,alishaspencer461@hotmail.com,317-226-5154,2909 Flamstead Road ,Chester,VT,05143
+8,Nicholas,Nunez,nicholasnunez586@yahoo.com,840-021-9732,14300 Leesa Lane ,Edmond,OK,73013
+9,Karla,Lewis,karlalewis331@yahoo.com,594-883-7599,6436 Stoney Point Road ,Panama City,FL,32404
+10,Cynthia,Wilson,cynthiawilson348@yahoo.com,118-084-4521,2115 Northwest 22nd Street ,Oklahoma City,OK,73107
+11,Brooke,Bass,brookebass223@yahoo.com,511-772-0499,1401 Cordova Street #APT 000006,Anchorage,AK,99501
+12,Andrew,Cook,andrewcook844@hotmail.com,673-001-8609,7905 Old Heady Road ,Louisville,KY,40299
+13,Dr. Timothy,Young,dr.young113@gmail.com,645-127-6978,3635 Bisquier Drive ,Anchorage,AK,99508
+14,Walter,Ramirez,walterramirez512@yahoo.com,497-761-8807,3500 15th Street Northeast ,Washington,DC,20017
+15,Andrea,Beck,andreabeck436@yahoo.com,815-104-4911,3579 2nd Avenue ,Edgewater,MD,21037
+16,Michael,Dixon,michaeldixon544@hotmail.com,794-277-8201,800 Quacco Road #3,Savannah,GA,31419
+17,Robert,Dominguez,robertdominguez981@gmail.com,470-072-4499,1583 Elberta Court ,Severn,MD,21144
+18,Paul,Larsen,paullarsen161@hotmail.com,907-770-2579,7854 Webster Way ,Arvada,CO,80003
+19,Jean,Carrillo,jeancarrillo189@hotmail.com,881-358-1684,7541 Florence Circle ,Anchorage,AK,99507
+20,Leslie,Alvarado,lesliealvarado927@gmail.com,517-503-2036,4432 Cobalt Drive ,Harwood,MD,20776
+21,Rachael,Pearson,rachaelpearson354@yahoo.com,517-634-1609,7720 Allison Street #105,Arvada,CO,80005
+22,Miguel,Jones,migueljones198@gmail.com,226-006-3024,517 West 33rd Street ,Savannah,GA,31415
+23,Morgan,Sheppard,morgansheppard814@hotmail.com,732-345-7706,3302 Woodland Park Drive #APT 000001,Anchorage,AK,99517
+24,Michelle,Freeman,michellefreeman227@hotmail.com,127-646-6878,8415 Running Spring Drive ,Louisville,KY,40241
+25,Natalie,Tapia,natalietapia465@hotmail.com,572-158-0911,3835 Oakes Drive ,Hayward,CA,94542
+26,Glen,Sheppard,glensheppard309@gmail.com,995-513-4878,10202 Vista Drive ,Cupertino,CA,95014
+27,Marc,Lynch,marclynch287@gmail.com,130-317-3102,4604 Virginia Loop Road ,Montgomery,AL,36116
+28,Mario,Guerrero,marioguerrero369@gmail.com,974-747-3998,1106 Homer Avenue ,Savannah,GA,31405
+29,Miss Debra,PhD,missphd715@gmail.com,451-383-5585,57 Bremer Drive ,Glen Burnie,MD,21061
+30,James,Hodges,jameshodges564@yahoo.com,998-523-6050,5311 Chenoweth Park Lane ,Louisville,KY,40291
+31,Emily,Smith,emilysmith730@hotmail.com,975-070-4871,1900 West Virginia Avenue Northeast ,Washington,DC,20002
+32,Scott,Morgan,scottmorgan432@yahoo.com,896-315-6021,10881 Northforde Drive ,Cupertino,CA,95014
+33,Amanda,Shaw,amandashaw48@hotmail.com,633-463-5250,25721 Berryhill Road ,Anchorage,AK,99577
+34,Jessica,Garcia,jessicagarcia38@gmail.com,837-558-2183,57 Hidden Lake Court ,Savannah,GA,31419
+35,Shelby,Harvey,shelbyharvey14@yahoo.com,158-862-4226,6610 North 93rd Avenue #3102,Glendale,AZ,85305
+36,Ronald,Foster,ronaldfoster856@gmail.com,672-242-4728,77 Gerald Drive ,Manchester,CT,06040
+37,Elizabeth,Burgess,elizabethburgess849@yahoo.com,966-762-7512,104 Bennington Street ,Lawrence,MA,01841
+38,Alexis,Herrera,alexisherrera369@gmail.com,123-584-3198,618 Staley Avenue ,Hayward,CA,94541
+39,Stacy,Taylor,stacytaylor994@hotmail.com,242-767-1810,8496 Isles Court ,Pasadena,MD,21122
+40,Dr. Samantha,Davis,dr.davis89@hotmail.com,606-180-9477,6657 West Rose Garden Lane ,Glendale,AZ,85308
+41,David,Morris,davidmorris279@gmail.com,185-246-7733,2032 4th Street Northwest ,Washington,DC,20001
+42,Brian,Joseph,brianjoseph527@gmail.com,570-727-8929,13426 West Rovey Avenue ,Litchfield Park,AZ,85340
+43,Stacy,Gutierrez,stacygutierrez467@hotmail.com,411-627-1512,1650 North Sang Avenue #211,Fayetteville,AR,72703
+44,Nathan,Schmitt,nathanschmitt974@hotmail.com,327-286-1430,1532 Milvia Street R A,Berkeley,CA,94709
+45,Kylie,Morales,kyliemorales965@hotmail.com,110-606-8671,150 Somersby Boulevard ,Pooler,GA,31322
+46,Paul,Wilson,paulwilson517@hotmail.com,692-665-1633,7003 9th Street Northwest ,Washington,DC,20012
+47,Sandra,Drake,sandradrake654@gmail.com,805-436-7309,75 Wilfred Road ,Manchester,CT,06040
+48,Patrick,Walker,patrickwalker564@yahoo.com,996-386-3184,159 North Pawlet Road ,Pawlet,VT,05761
+49,Mark,Hernandez,markhernandez867@yahoo.com,315-658-1620,6080 Frontier Lane ,Nashville,TN,37211
+50,Kenneth,Lopez,kennethlopez536@gmail.com,266-815-3664,3111 Gentilly Court ,Montgomery,AL,36116
+51,Brandon,Gregory,brandongregory798@yahoo.com,903-016-1172,2631 Northrup Place ,Anchorage,AK,99508
+52,Gloria,Miranda,gloriamiranda964@hotmail.com,728-536-0143,7703 Laird Street ,Panama City,FL,32408
+53,Miss Nicole,Bowers,missbowers447@gmail.com,538-456-3949,7301 Northwest 113th Terrace ,Oklahoma City,OK,73162
+54,Denise,Whitehead,denisewhitehead113@gmail.com,573-305-1661,2115 Honeysuckle Drive ,Panama City,FL,32404
+55,Chad,Mitchell,chadmitchell616@yahoo.com,560-320-2596,517 Glenpark Drive ,Nashville,TN,37217
+56,Laura,Higgins,laurahiggins65@hotmail.com,618-461-2866,51035 Conifer Drive ,Soda Springs,CA,95728
+57,Gina,Day,ginaday624@gmail.com,208-361-4969,1643 North Jordan Lane ,Fayetteville,AR,72703
+58,Evelyn,Martinez,evelynmartinez513@hotmail.com,115-563-7174,4405 West Solano Drive South ,Glendale,AZ,85301
+59,Bobby,Guerrero,bobbyguerrero479@yahoo.com,895-133-1743,222 Quince Street #2-B,San Diego,CA,92103
+60,Travis,Johnson,travisjohnson942@gmail.com,476-242-6623,5408 Iris Street ,Arvada,CO,80002
+61,Daniel,Carr,danielcarr609@hotmail.com,471-873-0774,78 Cliffside Drive D,Manchester,CT,06042
+62,William,Anderson,williamanderson490@hotmail.com,874-546-2419,152 Holly Court ,Mountain View,CA,94043
+63,Elizabeth,Martin,elizabethmartin432@yahoo.com,489-283-4990,325 Irwin Street #APT 000002,Anchorage,AK,99508
+64,Justin,Bryan,justinbryan24@yahoo.com,473-526-5780,4032 Windwood Lane ,Nashville,TN,37214
+65,Michelle,Gross,michellegross927@gmail.com,134-342-4070,12039 West 85th Drive ,Arvada,CO,80005
+66,Eric,Johnson,ericjohnson366@hotmail.com,788-810-1161,1643 North Jordan Lane ,Fayetteville,AR,72703
+67,Joanna,Pierce,joannapierce331@yahoo.com,502-536-0014,350 Lydall Street ,Manchester,CT,06042
+68,Elijah,Cabrera,elijahcabrera573@yahoo.com,469-651-6976,86 Pine Street #3,Cambridge,MA,02139
+69,Jennifer,Gutierrez,jennifergutierrez681@gmail.com,669-542-2884,132 Laurel Green Court ,Savannah,GA,31419
+70,Corey,Wright,coreywright673@yahoo.com,280-702-1660,1318 22nd Street Northwest ,Washington,DC,20037
+71,Luis,Matthews,luismatthews148@yahoo.com,535-448-5080,1901 North Midwest Boulevard ,Edmond,OK,73034
+72,Terry,Davis,terrydavis78@yahoo.com,530-310-8843,3413 Pheasant Run Road ,Norman,OK,73072
+73,Laura,Rodriguez,laurarodriguez208@hotmail.com,199-135-3228,6315 North Oro Vista Court ,Litchfield Park,AZ,85340
+74,Jose,Miller,josemiller159@hotmail.com,891-386-3168,8573 North 63rd Drive ,Glendale,AZ,85302
+75,Mark,Shepard,markshepard197@hotmail.com,603-020-9863,235 17th Street Southeast ,Washington,DC,20003
+76,Sarah,Ramos,sarahramos278@hotmail.com,111-606-3300,3001 Spyglass Hill Road ,Edmond,OK,73034
+77,Aaron,Robinson,aaronrobinson400@yahoo.com,697-372-2076,13426 North 54th Drive ,Glendale,AZ,85304
+78,Willie,Long,willielong785@hotmail.com,820-640-6857,51035 Conifer Drive ,Soda Springs,CA,95728
+79,Andrea,Wheeler,andreawheeler464@hotmail.com,141-512-7795,7822 West Peppertree Lane ,Glendale,AZ,85303
+80,Denise,Hawkins,denisehawkins877@gmail.com,694-037-0733,816 West 19th Avenue ,Anchorage,AK,99503
+81,Cesar,Sanchez,cesarsanchez81@hotmail.com,583-712-4577,14 School Street ,Medway,MA,02053
+82,Cynthia,Morris,cynthiamorris254@yahoo.com,718-762-9704,174 Village Lake Drive ,Pooler,GA,31322
+83,David,Pierce,davidpierce183@yahoo.com,835-141-8353,260 Rio Del Mar Boulevard ##14,Aptos,CA,95003
+84,Alan,Patel,alanpatel261@gmail.com,569-700-8152,5611 North 61st Avenue ,Glendale,AZ,85301
+85,Jamie,Tran,jamietran298@yahoo.com,927-564-1090,2538 East 40th Plaza ,Panama City,FL,32405
+86,Michelle,Sanders,michellesanders167@hotmail.com,272-681-7138,880 General George Patton Road ,Nashville,TN,37221
+87,Jerry,Perez,jerryperez888@yahoo.com,243-781-9672,1117 Everett Avenue ,Louisville,KY,40204
+88,Brandon,Spencer,brandonspencer677@yahoo.com,233-205-4714,2 Cockle Shell Road ,Savannah,GA,31419
+89,Terry,Le,terryle193@gmail.com,798-238-0669,816 East 69th Street ,Savannah,GA,31405
+90,Mark,Faulkner,markfaulkner848@yahoo.com,768-771-8410,9331 Edison Road ,Lithia,FL,33547
+91,William,Mendoza,williammendoza561@yahoo.com,101-486-4267,210 Seaman ,McCrory,AR,72101
+92,Courtney,Burgess,courtneyburgess455@yahoo.com,673-140-4815,19803 North Mitkof Loop ,Anchorage,AK,99577
+93,Nathan,Chavez,nathanchavez81@yahoo.com,275-241-7788,1602 East 14th Court ,Lynn Haven,FL,32444
+94,Michael,Harris,michaelharris131@hotmail.com,345-066-6071,201 Lee Boulevard ,Savannah,GA,31405
+95,Emily,Allen,emilyallen745@yahoo.com,350-033-9758,4503 North Council Road ,Bethany,OK,73008
+96,Tracey,Wagner,traceywagner619@gmail.com,604-318-1526,2224 East Tall Oaks Drive ,Fayetteville,AR,72703
+97,Peter,Wolf,peterwolf690@gmail.com,754-261-6746,1643 North Jordan Lane ,Fayetteville,AR,72703
+98,Robin,Trujillo,robintrujillo451@hotmail.com,253-238-4027,5815 West Del Lago Circle ,Glendale,AZ,85308
+99,Bernard,Norton,bernardnorton543@hotmail.com,317-801-8637,6816 West 84th Circle #42,Arvada,CO,80003
+100,Steven,Farmer,stevenfarmer466@gmail.com,325-825-1370,1630 Eton Way ,Crofton,MD,21114

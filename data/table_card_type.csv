@@ -1,0 +1,11 @@
+﻿card_type_id,card_type,card_network,privilege
+1,Bronze,MasterCard,Bronze plus MasterCard benefits
+2,Silver,MasterCard,Silver plus MasterCard benefits
+3,Gold,MasterCard,Gold plus MasterCard benefits
+4,Platinum,MasterCard,Platinum plus MasterCard benefits
+5,Diamond,MasterCard,Diamond plus MasterCard benefits
+6,Bronze,VISA,Bronze plus VISA benefits
+7,Silver,VISA,Silver plus VISA benefits
+8,Gold,VISA,Gold plus VISA benefits
+9,Platinum,VISA,Platinum plus VISA benefits
+10,Diamond,VISA,Diamond plus VISA benefits
